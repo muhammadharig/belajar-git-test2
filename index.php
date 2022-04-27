@@ -9,5 +9,12 @@
 <body>
     <h1>Hello World!</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, aliquid recusandae. Eum necessitatibus id saepe pariatur accusantium aliquid nemo illum fugit, non laborum similique quaerat distinctio harum tempora nostrum. Delectus.</p>
+
+    <ul>
+        <li>bakwan</li>
+        <li>Tahu</li>
+        <li>Tempe</li>
+    </ul>
+    
 </body>
 </html>
